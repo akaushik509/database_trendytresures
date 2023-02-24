@@ -7,11 +7,24 @@ const productRouter=express.Router()
 productRouter.get('/search', async (req, res) => {
     try {
         console.log(req.query);
-      const searchTerm = req.query.term;
-      const products = await ProductModel.find({ name: { "$regex": searchTerm, $options: 'i' }});
-      res.json(products);
+        for(let k in req.query){
+          console.log(k)
+          if(k=="name"){
+            
+            const products = await ProductModel.find({ name: { "$regex": req.query[k], $options: 'i' }});
+            res.json(products);
+          }else if(k=="brand"){
+            const products = await ProductModel.find({ brand: { "$regex": req.query[k], $options: 'i' }});
+            res.json(products);
+          }else if(k=="category"){
+            const products = await ProductModel.find({ category: { "$regex": req.query[k], $options: 'i' }});
+            res.json(products);
+          }
+        }      
+      
     } catch (err) {
       console.error(err);
+
       res.status(500).json({ error: 'Internal server error' });
     }
   });

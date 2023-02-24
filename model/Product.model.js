@@ -47,6 +47,10 @@ const productSchema=mongoose.Schema({
       isActive: {
         type: Boolean,
         default: true
+      },
+      type: {
+        type: String,
+        enum: ['Mens', 'Womens', 'Mobile']
       }
 })
 
