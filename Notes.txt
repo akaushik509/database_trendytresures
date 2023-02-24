@@ -1,0 +1,136 @@
+1. New User Register
+
+http://localhost:8080/users/register - POST
+
+we have to pass from body:- 
+
+{
+    "name":"avinash",
+    "email":"avi@a",
+    "password":"a",
+    "imageUrl":"abc.image"
+}
+
+res. - 
+
+{
+    "msg": "New User has been registered"
+}
+-----------------------------------------------------
+2. Admin can see alist of all registerd users
+
+http://localhost:8080/admin/allusers - GET
+
+res:- all registered Users
+-----------------------------------------------------
+3. Admin can add Product
+
+http://localhost:8080/prod/addproduct - POST
+
+{
+    "name":"product 1",
+    "description":"This is Product 1",
+    "price":300,
+    "imageUrl":"Produc1.image"
+}
+
+res- 
+
+{
+    "msg": "product added"
+}
+-----------------------------------------------------
+4. Anyone can see all the products
+
+http://localhost:8080/prod/ - GET
+
+-----------------------------------------------------
+5. User Login
+
+http://localhost:8080/users/login - POST
+
+{
+    "email":"avi@a",
+    "password":"a"
+}
+
+-----------------------------------------------------6. User Can add product to cart
+
+http://localhost:8080/cart/addtocart - POST
+
+{
+    "productId":"63f8648ac78e41b91b3e4768"
+}
+
+res:-
+{
+    "message": "Product added to cart"
+}
+-----------------------------------------------------
+7. User can see all product in cart
+
+http://localhost:8080/cart/getcart - GET
+-----------------------------------------------------
+8. User can remove product from cart
+
+http://localhost:8080/cart/removefromcart/:productId - Delete
+
+res - 
+removed msg
+----------------------------------------------------
+9. User buy all product from cart
+
+http://localhost:8080/myorder/cartitem - POST
+
+(after ordering cart will become empty)
+------------------------------------------------
+10. User can see his all ordered product
+
+http://localhost:8080/myorder/orders - GET
+
+-------------------------------------------------
+11. admin can see all orders placed by all users
+
+http://localhost:8080/admin/orders - GET
+----------------------------------------------------
+12. Admin can change the isActive status
+
+http://localhost:8080/admin/:productId - PATCH
+
+body-
+{
+    "isActive":true
+}
+
+res-
+{
+    "message": "Product updated"
+}
+-----------------------------------------------------
+13. Order Status changed by admin shippend, pending, delivered
+
+http://localhost:8080/myorder/orderstatus/:orderId/f - PATCH
+
+body:-
+{
+    "status":"Shipped" or"Delivered"
+}
+
+res-
+
+{
+    "message": "Order status updated successfully"
+}
+-----------------------------------------------------
+
+14. search by product name
+http://localhost:8080/prod/search?term=productname - GET
+
+15.  serach by price less than
+
+http://localhost:8080/prod/lessthan/price - get
+
+16. search by price greater than
+
+http://localhost:8080/prod/greaterthan/price - get
+

@@ -1,0 +1,433 @@
+[
+    {
+        "oldprice": 1199,
+        "price": 949,
+        "Brand": "Bewakoof",
+        "bmage": "https://images.bewakoof.com/t640/cream-men-s-half-sleeves-shirt-348535-1655834980-1.jpg",
+        "categUrlory": "shirt",
+        "name": "Men's Cream Shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1199,
+        "name": "Men's Grey Striped Slim Fit Shirt",
+        "price": 799,
+        "brand": "ACT SMART",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-grey-striped-slim-fit-shirt-567468-1672748690-1.jpg",
+        "category": "shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1199,
+        "name": "Men's Blue Printed Slim Fit Shirt",
+        "price": 899,
+        "brand": "Bushirt",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-blue-printed-slim-fit-shirt-568057-1673350736-1.jpg",
+        "category": "shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1499,
+        "name": "Men's White Striped Slim Fit Shirt",
+        "price": 1120,
+        "brand": "FLY69",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-brown-striped-slim-fit-shirt6-567439-1672738754-1.JPG",
+        "category": "shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1999,
+        "name": "Men's Grey Slim Fit Shirt",
+        "price": 1499,
+        "brand": "Snitch",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-grey-slim-fit-shirt-534454-1659955009-1.jpg",
+        "category": "shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 999,
+        "name": "Men's Black Deathnote Ryuk Graphic Printed Oversized T-shirt",
+        "price": 499,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-black-deathnote-ryuk-oversized-t-shirt-568923-1673597452-1.jpg",
+        "category": "t-shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 999,
+        "name": "Men's White Web Slinger Graphic Printed Plus Size T-shirt",
+        "price": 599,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-whiteweb-slinger-plus-size-round-neck-t-shirt-568953-1673611971-1.jpg",
+        "category": "t-shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1199,
+        "name": "Men's Black Goosebumps Graphic Printed Oversized T-shirt",
+        "price": 799,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/goosebumps-oversized-fit-full-sleeve-t-shirt-564612-1672061287-1.jpg",
+        "category": "t-shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 999,
+        "name": "Men's Blue Goose Bumps Graphic Printed T-shirt",
+        "price": 649,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/men-goose-bumps-printed-t-shirt-552791-1668496511-1.jpg",
+        "category": "t-shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 999,
+        "name": "Men's Yellow & Black Raglan T-shirt",
+        "price": 699,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-yellow-black-t-shirt-485116-1672236225-1.jpg",
+        "category": "t-shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1999,
+        "name": "Men's Blue Washed Skinny Fit Jeans",
+        "price": 1609,
+        "brand": "Blue Buddha",
+        "imageUrl": "https://images.bewakoof.com/t640/blue-buddha-men-s-blue-washed-skinny-fit-jeans-568905-1673515482-1.jpg",
+        "category": "jeans",
+        "isActive":true
+    },
+    {
+        "oldprice": 1599,
+        "name": "Men's Blue Washed Slim Fit Jeans",
+        "price": 1399,
+        "brand": "Jeans Cafe",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-blue-washed-slim-fit-jeans-567492-1672831881-1.jpg",
+        "category": "jeans",
+        "isActive":true
+    },
+    {
+        "oldprice": 1599,
+        "name": "Men's Brown Slim Fit Jeans",
+        "price": 1399,
+        "brand": "Jeans Cafe",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-brown-slim-fit-jeans-567494-1672831850-1.jpg",
+        "category": "jeans",
+        "isActive":true
+    },
+    {
+        "oldprice": 3099,
+        "name": "Men's Blue Washed Slim Fit Jeans",
+        "price": 1819,
+        "brand": "Blue Buddha",
+        "imageUrl": "https://images.bewakoof.com/t640/blue-buddha-men-s-blue-washed-slim-fit-jeans-568895-1673515671-1.jpg",
+        "category": "jeans",
+        "isActive":true
+    },
+    {
+        "oldprice": 2099,
+        "name": "Men's White Skinny Fit Jeans",
+        "price": 1699,
+        "brand": "Snitch",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-white-skinny-fit-jeans-552820-1667540322-1.jpg",
+        "category": "jeans",
+        "isActive":true
+    },
+    {
+        "oldprice": 2599,
+        "name": "White Green Chikankari Embroidered Woven Design Straight Kurta",
+        "price": 1791,
+        "brand": "See Designs",
+        "imageUrl": "https://images.bewakoof.com/t640/see-designs-white-green-chikankari-embroidered-woven-design-straight-kurta-421773-1655940336-1.jpg",
+        "category": "kurta",
+        "isActive":true
+    },
+    {
+        "oldprice": 2099,
+        "name": "Lime Green Green Chikankari Embroidered Woven Design Straight Kurta",
+        "price": 1791,
+        "brand": "See Designs",
+        "imageUrl": "https://images.bewakoof.com/t640/see-designs-lime-green-green-chikankari-embroidered-woven-design-straight-kurta-421792-1655940341-1.jpg",
+        "category": "kurta",
+        "isActive":true
+    },
+    {
+        "oldprice": 999,
+        "name": "Men's Blue Relaxed Fit Knit Kurta",
+        "price": 362,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-solid-knit-kurta-321884-1655816343-6.jpg",
+        "category": "kurta",
+        "isActive":true
+    },
+    {
+        "oldprice": 999,
+        "name": "Men's Crystal Teal Relaxed Fit Long Kurta",
+        "price": 599,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-solid-crystal-teal-long-kurta-502496-1663931131-1.jpg",
+        "category": "kurta",
+        "isActive":true
+    },
+    {
+        "oldprice": 1199,
+        "name": "Men's Black Plus Size Relaxed Fit Festive Short Kurta",
+        "price": 764,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/men-s-black-plus-size-mandarin-neck-festive-short-kurta-408277-1665064951-1.jpg",
+        "category": "kurta",
+        "isActive":true
+    },
+    {
+        "name": "Women's Pink My Drug Graphic Printed Oversized Hoodie",
+        "price": 1599,
+        "Brand": "Bewakoof",
+        "image": "https://images.bewakoof.com/t640/women-s-pink-my-drug-graphic-printed-oversized-hoodie-556613-1669375451-1.jpg",
+        "category": "hoodies",
+        "isActive":true
+    },
+    {
+        "oldprice": 3499,
+        "name": "Women's Beige Hangover Typography Oversized Hoodie",
+        "price": 1399,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/women-hangover-hoodie-printed-hoodie-559157-1672313056-1.jpg",
+        "category": "hoodies",
+        "isActive":true
+    },
+    {
+        "oldprice": 1649,
+        "name": "Women's Black & White Color Block Hoodie",
+        "price": 549,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/women-s-color-block-hoodie-362075-1656150510-1.jpg",
+        "category": "hoodies",
+        "isActive":true
+    },
+    {
+        "oldprice": 1299,
+        "name": "Women's Beige Shirt",
+        "price": 549,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/women-s-beige-shirt-540964-1662557943-1.jpg",
+        "category": "shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1049,
+        "name": "Women's Grey Shirt",
+        "price": 699,
+        "brand": "Blue Buddha",
+        "imageUrl": "https://images.bewakoof.com/t640/women-s-grey-shirt-540953-1662557969-1.jpg",
+        "category": "shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1699,
+        "name": "Women's Blue Slim Fit Shirt",
+        "price": 764,
+        "brand": "Jeans Cafe",
+        "imageUrl": "https://images.bewakoof.com/t640/women-s-blue-slim-fit-shirt-559217-1670583575-1.jpg",
+        "category": "shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1399,
+        "name": "Women's Grey Checkered Regular Fit Shirt",
+        "price": 769,
+        "brand": "Jeans Cafe",
+        "imageUrl": "https://images.bewakoof.com/t1080/campus-sutra-women-s-grey-checkered-regular-fit-shirt-454019-1656182007-1.JPG",
+        "category": "shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 1399,
+        "name": "Women's Blue Checkered Regular Fit Shirt",
+        "price": 789,
+        "brand": "Blue Buddha",
+        "imageUrl": "https://images.bewakoof.com/t640/campus-sutra-women-s-blue-checkered-regular-fit-shirt-454857-1656054703-1.JPG",
+        "category": "shirt",
+        "isActive":true
+    },
+    {
+        "oldprice": 2099,
+        "name": "Women's Black Polka Printed Jumpsuit",
+        "price": 649,
+        "brand": "Snitch",
+        "imageUrl": "https://images.bewakoof.com/t640/women-s-black-polka-printed-jumpsuit-542453-1663655631-1.jpg",
+        "category": "jumpsuit",
+        "isActive":true
+    },
+    {
+        "oldprice": 1699,
+        "name": "Women's Orange Jumpsuit",
+        "price": 1499,
+        "brand": "See Designs",
+        "imageUrl": "https://images.bewakoof.com/t640/women-s-orange-jumpsuit-495715-1656163077-1.jpg",
+        "category": "jumpsuit",
+        "isActive":true
+    },
+    {
+        "oldprice": 1999,
+        "name": "Women's Black Floral Printed Jumpsuit",
+        "price": 879,
+        "brand": "See Designs",
+        "imageUrl": "https://images.bewakoof.com/t640/women-s-black-floral-printed-jumpsuit-563483-1671107477-1.jpg",
+        "category": "jumpsuit",
+        "isActive":true
+    },
+    {
+        "oldprice": 1999,
+        "name": "Women's maroon solid Floral Printed Jumpsuit",
+        "price": 639,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t320/the-dry-state-women-maroon-solid-basic-jumpsuit-has-a-vneck-long-sleeves-403132-1631098609-1.jpg",
+        "category": "jumpsuit",
+        "isActive":true
+    },
+    {
+        "oldprice": 2499,
+        "name": "Women's Blue All Over Floral Printed Jumpsuit",
+        "price": 999,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/women-s-blue-all-over-floral-printed-jumpsuit-542455-1663655561-1.jpg",
+        "category": "jumpsuit",
+        "isActive":true
+    },
+    {
+        "oldprice": 1199,
+        "name": "Women's Blue Jumpsuit",
+        "price": 679,
+        "brand": "Bewakoof",
+        "imageUrl": "https://images.bewakoof.com/t640/women-s-blue-jumpsuit-542452-1663655654-1.jpg",
+        "category": "jumpsuit",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Anime Prophecy Designer Hard Cover for Xiaomi Redmi 9 Power",
+        "price": 299,
+        "brand": "Xiaomi",
+        "imageUrl": "https://images.bewakoof.com/t320/anime-prophecy-designer-hard-cover-for-xiaomi-redmi-9-power-494583-1651158178-1.jpeg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Sarcasm Designer Hard Cover for Xiaomi Redmi 9 Power",
+        "price": 199,
+        "brand": "Xiaomi",
+        "imageUrl": "https://images.bewakoof.com/t320/sarcasm-designer-hard-cover-for-xiaomi-redmi-9-power-494068-1651243868-1.jpeg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Anime Prophecy Designer Hard Cover for Xiaomi Redmi 9 Power",
+        "price": 299,
+        "brand": "Xiaomi",
+        "imageUrl": "https://images.bewakoof.com/t640/gojo-geo-designer-hard-cover-for-xiaomi-redmi-9-power-569804-1674138182-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Sarcasm Designer Hard Cover for Xiaomi Redmi 9 Power",
+        "price": 199,
+        "brand": "Xiaomi",
+        "imageUrl": "https://images.bewakoof.com/t640/bored-teddy-designer-hard-cover-for-xiaomi-redmi-9-power-572517-1674626433-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 1499,
+        "name": "Worship Printed Premium Glass Cover for Apple iPhone 14 Pro (Shock Proof, Scratch Resistant)",
+        "price": 499,
+        "brand": "Apple",
+        "imageUrl": "https://images.bewakoof.com/t640/worship-printed-premium-glass-cover-for-apple-iphone-14-pro-shock-proof-scratch-resistant-544236-1663846800-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 1499,
+        "name": "King Life Printed Premium Glass Cover for Apple iPhone 14 Pro (Shock Proof, Scratch Resistant)",
+        "price": 499,
+        "brand": "Apple",
+        "imageUrl": "https://images.bewakoof.com/t640/king-life-printed-premium-glass-cover-for-apple-iphone-14-pro-shock-proof-scratch-resistant-544227-1663846654-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 1499,
+        "name": "Ultramarine Printed Premium Glass Cover for Apple iPhone 14 Pro (Shockproof, Light Weight)",
+        "price": 499,
+        "brand": "Apple",
+        "imageUrl": "https://images.bewakoof.com/t640/ultramarine-printed-premium-glass-cover-for-apple-iphone-14-pro-shockproof-light-weight-547867-1665564885-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 1499,
+        "name": "Jet Black Premium Glass Cover for Apple iPhone 14 Pro (Shockproof, Light Weight)",
+        "price": 499,
+        "brand": "Apple",
+        "imageUrl": "https://images.bewakoof.com/t640/jet-black-premium-glass-cover-for-apple-iphone-14-pro-shockproof-light-weight-547866-1665565159-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Mickey (DL) Hyperprint Camou Realme 5 Mobile Cover",
+        "price": 299,
+        "brand": "Realme 10",
+        "imageUrl": "https://images.bewakoof.com/t320/mickey-dl-hyperprint-camou-realme-5-mobile-cover-472151-1643643637-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Rave Dementor Realme 5 Mobile Cover Mobile Cover",
+        "price": 199,
+        "brand": "Realme 10",
+        "imageUrl": "https://images.bewakoof.com/t640/jet-black-premium-glass-cover-for-apple-iphone-14-pro-shockproof-light-weight-547866-1665565159-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Lep Realme 5 Mobile Cover Mobile Cover",
+        "price": 199,
+        "brand": "Realme 10",
+        "imageUrl": "https://images.bewakoof.com/t320/lep-realme-5-mobile-cover-realme-5-mobile-covers-246036-1571469999.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Tropical Lineart Designer Hard Cover for OnePlus 9R",
+        "price": 199,
+        "brand": "One Plus",
+        "imageUrl": "https://images.bewakoof.com/t640/tropical-lineart-designer-hard-cover-for-oneplus-9r-544928-1664458516-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Weird Tom & Jerry Designer Hard Cover for OnePlus 9R",
+        "price": 199,
+        "brand": "One Plus",
+        "imageUrl": "https://images.bewakoof.com/t640/weird-tom-jerry-designer-hard-cover-for-oneplus-9r-558432-1670479960-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    },
+    {
+        "oldprice": 499,
+        "name": "Smokey Leaf Designer Hard Cover for OnePlus 9R",
+        "price": 199,
+        "brand": "One Plus",
+        "imageUrl": "https://images.bewakoof.com/t1080/smokey-leaf-designer-hard-cover-for-oneplus-9r-535303-1660205728-1.jpg",
+        "category": "mobile cover",
+        "isActive":true
+    }
+]
