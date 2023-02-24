@@ -19,6 +19,9 @@ productRouter.get('/search', async (req, res) => {
           }else if(k=="category"){
             const products = await ProductModel.find({ category: { "$regex": req.query[k], $options: 'i' }});
             res.json(products);
+          }else if(k=="type"){
+            const products = await ProductModel.find({ type: { "$regex": req.query[k], $options: 'i' }});
+            res.json(products);
           }
         }      
       
