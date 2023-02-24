@@ -11,16 +11,16 @@ productRouter.get('/search', async (req, res) => {
           console.log(k)
           if(k=="name"){
             
-            const products = await ProductModel.find({ name: { "$regex": req.query[k], $options: 'i' }});
+            const products = await ProductModel.find({ name: { "$regex": req.query[k] }});
             res.json(products);
           }else if(k=="brand"){
-            const products = await ProductModel.find({ brand: { "$regex": req.query[k], $options: 'i' }});
+            const products = await ProductModel.find({ brand: { "$regex": req.query[k] }});
             res.json(products);
           }else if(k=="category"){
-            const products = await ProductModel.find({ category: { "$regex": req.query[k], $options: 'i' }});
+            const products = await ProductModel.find({ category: { "$regex": req.query[k] }});
             res.json(products);
           }else if(k=="type"){
-            const products = await ProductModel.find({ type: { "$regex": req.query[k], $options: 'i' }});
+            const products = await ProductModel.find({ type: { "$regex": req.query[k] }});
             res.json(products);
           }
         }      
