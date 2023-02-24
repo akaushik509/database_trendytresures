@@ -19,9 +19,22 @@ userRouter.post("/register",async(req,res)=>{
         })
     }catch(err){
         res.send({"msg":"Something went wrong", "Error":err.message})
-    }
-    
+    } 
 })
+
+userRouter.patch('/update/:id', (req, res) => {
+    const id = req.params.id;
+    const updates = req.body;
+  
+    UserModel.findByIdAndUpdate(id, updates, { new: true })
+      .then(updatedUser => {
+        if (!updatedUser) {
+          return res.status(404).json({ message: 'User not found' });
+        }
+        res.json(updatedUser);
+      })
+      .catch(err => console.log(err));
+  });
 
 userRouter.post("/login",async(req,res)=>{
     const {email,password}=req.body
