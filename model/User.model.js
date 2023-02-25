@@ -24,7 +24,6 @@ const userSchema=mongoose.Schema({
       }],
       imageUrl: {
         type: String,
-        default: 'https://via.placeholder.com/150'
       },
       address: String,
       mobile: Number
